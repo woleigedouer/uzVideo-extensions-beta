@@ -8,6 +8,7 @@
             "type": 200
         }
     ],
+    
     "panTools": [
         {
             "name": "UC|夸克|阿里 网盘解析工具",
@@ -17,6 +18,7 @@
             "type": 300
         }
     ],
+    
     "danMu": [
         {
         "name": "综合弹幕V9",
@@ -50,26 +52,7 @@
         "version": 1
         }
     ],
-    "live": [
-        {
-            "name": "📺电视直播",
-            "url": "https://tv.iill.top/m3u/Gather",
-            "type": 10,
-            "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
-        },
-        {
-            "name": "🎥网络直播",
-            "url": "https://tv.iill.top/m3u/Live",
-            "type": 10,
-            "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
-        },
-        {
-            "name": "🚴‍♂️体育直播",
-            "url": "https://tv.iill.top/m3u/Sport",
-            "type": 10,
-            "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
-        }
-    ],
+    
     "vod": [
         {
             "name": "[盘]玩偶",
