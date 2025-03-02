@@ -1,5 +1,12 @@
 "danMu":[
     {
+        "name": "dandanPlay",
+        "remark": "数据来自 弹弹Play",
+        "url": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/danMu/js/danMu.js",
+        "type": 400,
+        "version": 1
+    },
+    {
         "name": "综合弹幕V9",
         "url": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/danMu/js/danMu_v9.txt",
         "codeID": "RkgRA9srEAgMgLcBJ78G2wlPRKTWWiwE",
@@ -22,12 +29,5 @@
         "remark": "别那么执着，搜不到就算了",
         "type": 400,
         "version": 7
-    },
-    {
-        "name": "dandanPlay",
-        "remark": "数据来自 弹弹Play",
-        "url": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/danMu/js/danMu.js",
-        "type": 400,
-        "version": 1
-    }
+    }  
 ]
