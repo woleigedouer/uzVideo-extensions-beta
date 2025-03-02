@@ -57,7 +57,7 @@
         {
             "name": "[盘]玩偶",
             "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/wogg.js",
-            "webSite": "https://www.wogg.lol",
+            "webSite": "https://www.wogg.one",
             "remark": "网盘 1.6.41 及以上版本可用",
             "version": "3",
             "type": 101
@@ -65,7 +65,7 @@
         {
             "name": "[盘]木偶",
             "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/mogg.js",
-            "webSite": "http://www.mogg.top",
+            "webSite": "https://mo.muouso.fun",
             "remark": "网盘 1.6.41 及以上版本可用",
             "version": "2",
             "type": 101
@@ -73,7 +73,7 @@
         {
             "name": "[盘]蜡笔",
             "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/labipan.js",
-            "webSite": "https://duopan.fun",
+            "webSite": "http://feimaoai.site",
             "remark": "网盘 1.6.41 及以上版本可用",
             "version": "3",
             "type": 101
