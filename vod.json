@@ -1,0 +1,100 @@
+[
+  {
+      "name": "[盘]玩偶",
+      "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/wogg.js",
+      "webSite": "https://www.wogg.one",
+      "remark": "网盘 1.6.41 及以上版本可用",
+      "version": "3",
+      "type": 101
+  },
+  {
+      "name": "[盘]木偶",
+      "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/mogg.js",
+      "webSite": "https://mo.muouso.fun",
+      "remark": "网盘 1.6.41 及以上版本可用",
+      "version": "2",
+      "type": 101
+  },
+  {
+      "name": "[盘]蜡笔",
+      "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/labipan.js",
+      "webSite": "http://feimaoai.site",
+      "remark": "网盘 1.6.41 及以上版本可用",
+      "version": "3",
+      "type": 101
+  },
+  {
+      "name": "[盘]闪电",
+      "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/shandian.js",
+      "webSite": "http://1.95.79.193/",
+      "remark": "网盘 1.6.41 及以上版本可用",
+      "version": "1",
+      "type": 101
+  },
+  {
+      "name": "[盘]小米",
+      "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/xiaomi.js",
+      "webSite": "http://milvdou.fun",
+      "remark": "网盘 1.6.41 及以上版本可用",
+      "version": "3",
+      "type": 101
+  },
+  {
+      "name": "[盘]至臻",
+      "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/zhizhen.js",
+      "webSite": "https://mihdr.top",
+      "remark": "网盘 1.6.41 及以上版本可用",
+      "version": "3",
+      "type": 101
+  },
+  {
+      "name": "[盘]二小",
+      "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/erxiao.js",
+      "webSite": "https://xhww.net",
+      "remark": "网盘 1.6.41 及以上版本可用",
+      "version": "1",
+      "type": 101
+  },
+  {
+      "name": "[盘]多多",
+      "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/duoduo.js",
+      "webSite": "https://tv.yydsys.top",
+      "remark": "网盘 1.6.41 及以上版本可用",
+      "version": "3",
+      "type": 101
+  },
+  {
+      "name": "[盘]欧歌",
+      "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/ouge.js",
+      "webSite": "https://woog.nxog.eu.org",
+      "remark": "网盘 1.6.41 及以上版本可用",
+      "version": "3",
+      "type": 101
+  },
+  {
+      "name": "[盘]虎斑",
+      "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/huban.js",
+      "webSite": "http://103.45.162.207:20720",
+      "remark": "网盘 1.6.41 及以上版本可用",
+      "version": "1",
+      "type": 101
+  },
+  {
+      "name": "[盘]下饭",
+      "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/xiafan.js",
+      "webSite": "http://www.xn--ghqy10g1w0a.xyz",
+      "remark": "网盘 1.6.41 及以上版本可用",
+      "version": "1",
+      "type": 101
+  },
+  {
+      "name": "[盘]云盘",
+      "codeID": "",
+      "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/resyunpan.js",
+      "instance": "resYunPan20241120",
+      "webSite": "https://res.yunpan.win",
+      "remark": "",
+      "version": 1,
+      "type": 100
+  }
+]
