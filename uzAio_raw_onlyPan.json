@@ -127,6 +127,22 @@
             "type": 101
         },
         {
+            "name": "[盘]百家",
+            "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/baijia.js",
+            "webSite": "http://cj.jiexi.news",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "1",
+            "type": 101
+        },
+        {
+            "name": "[盘]豆儿",
+            "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/douer.js",
+            "webSite": "http://192.168.31.6:8084",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "1",
+            "type": 101
+        },
+        {
             "name": "[盘]云盘",
             "codeID": "",
             "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/resyunpan.js",
