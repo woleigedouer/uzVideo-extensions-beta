@@ -1,0 +1,226 @@
+[
+    {
+        "name": "[嗅]CliCli",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]clicli_带筛选.js",
+        "webSite": "https://www.clicli.pro",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]路漫漫",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]路漫漫_带筛选.js",
+        "webSite": "https://www.lmm96.com",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]樱花动漫",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]樱花动漫.js",
+        "webSite": "https://www.vdm5.com",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]girigirilove",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]girigirilove.js",
+        "webSite": "https://anime.girigirilove.com",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]囧次元",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]囧次元.js",
+        "webSite": "https://www.9ciyuan.cc",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]OMOFun",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]OMOFun.js",
+        "webSite": "https://www.omofun.li",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]MiFun",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]MiFun.js",
+        "webSite": "http://www.mifun.tw",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]风铃动漫",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]风铃动漫.js",
+        "webSite": "https://www.aafun.cc",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]动漫巴士",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]动漫巴士.js",
+        "webSite": "https://dm84.tv",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]风车动漫",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]风车动漫.js",
+        "webSite": "https://www.tt776b.com",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]MX动漫",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]MX动漫.js",
+        "webSite": "https://www.mxdm9.cc",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]奇米动漫",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]奇米动漫.js",
+        "webSite": "https://www.qimiqimi.net",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]NT动漫",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]NT动漫.js",
+        "webSite": "https://www.ntdm9.com",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]柒番",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]柒番.js",
+        "webSite": "https://www.qifun.cc",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]MuteFun",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]MuteFun.js",
+        "webSite": "https://www.mutean.com",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]HDmoli",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]HDmoli.js",
+        "webSite": "https://hdmoli.pro",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]八号影视",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]八号影视.js",
+        "webSite": "https://www.bahaotv.com",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]播剧影视",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]播剧影视.js",
+        "webSite": "https://www.boju.cc",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]里里影院",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]里里影院.js",
+        "webSite": "https://www.liic.cc",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]爱壹帆",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]爱壹帆.js",
+        "webSite": "https://www.iyf.lv",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]泥视频",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]泥视频.js",
+        "webSite": "https://www.nivod.vip",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]海纳TV",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]海纳TV.js",
+        "webSite": "https://www.hainatv.net",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]影视工厂",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]影视工厂.js",
+        "webSite": "https://www.ysgc.fun",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]老王电影",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]老王电影.js",
+        "webSite": "https://laowang.co",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]BILFUN",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]BILFUN.js",
+        "webSite": "https://bilfun.cc",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]VidHub",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]VidHub.js",
+        "webSite": "https://vidhub3.top",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]88影视网",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]88影视网.js",
+        "webSite": "https://www.88mv.org",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]新视觉影院",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]新视觉影院.js",
+        "webSite": "https://www.sypfjy.com",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    }
+]
