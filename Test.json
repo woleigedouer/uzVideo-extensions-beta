@@ -1,0 +1,8 @@
+{
+        "name": "[豆·测]不太通用网盘",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/[豆·测]不太通用网盘.js",
+        "webSite": "https://mo.91muou.icu",
+        "remark": "修改域名自动获取分类",
+        "version": "666",
+        "type": 101
+},
