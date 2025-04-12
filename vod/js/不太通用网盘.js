@@ -1,9 +1,9 @@
 //@name:[豆·测]不太通用网盘
 //@version:1
-//@webSite:https://mo.91muou.icu
+//@webSite:http://149.88.87.18:6688
 //@remark:修改域名自动获取分类
 const appConfig = {
-    _webSite: 'https://mo.91muou.icu',
+    _webSite: 'http://149.88.87.18:6688',
     /**
      * 网站主页，uz 调用每个函数前都会进行赋值操作
      * 如果不想被改变 请自定义一个变量
