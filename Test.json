@@ -6,5 +6,13 @@
         "remark": "修改域名自动获取分类",
         "version": "666",
         "type": 101
+    },
+    {
+        "name": "[测]清影|看备注！！！",
+        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/js/revohd.js",
+        "webSite": "https://revohd.com",
+        "remark": "软件v1.6.57|网盘拓展v19以上可用，加载不出来一般是网站空资源",
+        "version": "1",
+        "type": 101
     }
 ]
